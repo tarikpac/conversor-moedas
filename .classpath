@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/httpcore-4.4.14.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/okhttp-4.9.3.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/kotlin-stdlib-1.8.10.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/okio-3.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/projetoconversor/libs/okio-2.10.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
